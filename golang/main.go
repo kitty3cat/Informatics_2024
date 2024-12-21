@@ -9,5 +9,4 @@ import (
 func main() {
 	fmt.Println("Valova Alyona Andreevna")
 	lab6.Start6lab()
-	fmt.Scanln()
 }
